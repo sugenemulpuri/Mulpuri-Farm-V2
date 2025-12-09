@@ -10,7 +10,7 @@ React is utilized to create an application that iterates a list of produce and t
 
 ## Getting Started
 
-There is a list of produce and their attributes that are shown on the front-end. The logic already set up in the InventoryList and InventoryItem components that a user can add entries to the inventory.json file and they will automatically populate. The user should be sure to add any additional images to the image folder and set up the path correctly in the json.
+There is a list of produce and their attributes that are shown on the front-end. When you click an item it takes you to the Product Details page. The logic already set up in the InventoryList and InventoryItem components that a user can add entries to the inventory.json file and they will automatically populate. The user should be sure to add any additional images to the image folder and set up the path correctly in the json.
 
 ## Dependencies
 
