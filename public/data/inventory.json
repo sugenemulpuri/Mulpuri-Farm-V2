@@ -1,0 +1,111 @@
+[
+    {
+        "sku": "332A6",
+        "name": "Apples",
+        "slug": "apple",
+        "quantity": 30,
+        "price": 1.75,
+        "image": "/images/apple.avif",
+        "description": "Fresh red delicious apples from our trees."
+    },
+    {
+        "sku": "235O4",
+        "name": "Oranges",
+        "slug": "orange",
+        "quantity": 20,
+        "price": 1.25,
+        "image": "/images/orange.jpg",
+        "description": "Tangy oranges from our trees."
+    },
+    {
+        "sku": "239B5",
+        "name": "Bananas",
+        "slug": "banana",
+        "quantity": 25,
+        "price": 0.98,
+        "image": "/images/banana.avif",
+        "description": "Ripe bananas from our trees."
+    },
+    {
+        "sku": "290T3",
+        "name": "Tomatoes",
+        "slug": "tomato",
+        "quantity": 15,
+        "price": 1.15,
+        "image": "/images/tomato.jpg",
+        "description": "Sweet fresh tomatoes from our plants"
+    },
+    {
+        "sku": "388L9",
+        "name": "Lettuce",
+        "slug": "lettuce",
+        "quantity": 18,
+        "price": 2.50,
+        "image": "/images/lettuce.avif",
+        "description": "Fresh lettuce harvested from our plants."
+    },
+    {
+        "sku": "193P8",
+        "name": "Pickles",
+        "slug": "pickle",
+        "quantity": 15,
+        "price": 2.25,
+        "image": "/images/pickle.jpeg",
+        "description": "Crisp pickles salted from our fresh cucumbers."
+    },
+
+    {
+        "sku": "18OL8",
+        "name": "Olives",
+        "slug": "olive",
+        "quantity": 40,
+        "price": 0.85,
+        "image": "/images/olive.jpeg",
+        "description": "Fresh sweet olives from our olive trees."
+    },
+    {
+        "sku": "279Y4",
+        "name": "Yams",
+        "slug": "yam",
+        "quantity": 40,
+        "price": 1.50,
+        "image": "/images/yam.jpg",
+        "description": "Starchy yam from our yam plants."
+    },
+    {
+        "sku": "842P2",
+        "name": "Potatoes",
+        "slug": "potato",
+        "quantity": 30,
+        "price": 0.95,
+        "image": "/images/potato.jpeg",
+        "description": "Perfect potatoes from our potato plants."
+    },
+    {
+        "sku": "131B7",
+        "name": "Bread",
+        "slug": "bread",
+        "quantity": 20,
+        "price": 3.25,
+        "image": "/images/bread.jpeg",
+        "description": "Fresh bread made in our bakery."
+    },
+    {
+        "sku": "404B3",
+        "name": "Beans",
+        "slug": "bean",
+        "quantity": 30,
+        "price": 2.00,
+        "image": "/images/beans.jpeg",
+        "description": "Fresh white beans from our bean plants."
+    },
+    {
+        "sku": "225O3",
+        "name": "Okra",
+        "slug": "okra",
+        "quantity": 25,
+        "price": 1.50,
+        "image": "/images/okra.jpeg",
+        "description": "Fresh okra from our okra plants."
+    }
+]

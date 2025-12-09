@@ -1,0 +1,31 @@
+.itemDetail {
+    margin: 10px auto; /* smaller vertical margin, auto horizontal to center */
+    border: 6px solid #46211A;
+    padding: 15px; /* enough space inside border for content */
+    border-radius: 14px;
+    color: #46211A;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-width: 500px; /* optional: prevent it from being too wide */
+    background-color: #ffffff;
+
+}
+
+.App {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    background-color: #f2e1c0;
+}
+
+img {
+    max-width: 350px;
+    height: auto;
+}
+button {
+    padding: 40px;
+    font-size: 32px;
+    border-radius: 20px;
+}
